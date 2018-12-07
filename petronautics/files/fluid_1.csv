@@ -1,0 +1,9 @@
+Parameter,Value
+Water viscosity (cp),1
+Water formation volume factor,1
+Water compressibility (1/psi),1e-6
+Water density (kg/m3),1000
+Oil viscosity (cp),5
+Oil formation volume factor,1
+Oil compressibility (1/psi),1e-6
+Oil density (kg/m3),800

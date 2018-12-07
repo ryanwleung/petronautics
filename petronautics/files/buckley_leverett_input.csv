@@ -1,0 +1,7 @@
+Parameter,Value
+Fluid,fluid_1.csv
+Relperm,relperm_1.csv
+Permeability (micrometers^2),0.5
+Velocity (cm/d),0.6
+Angle (deg),10
+tD (PV injected),0.2
